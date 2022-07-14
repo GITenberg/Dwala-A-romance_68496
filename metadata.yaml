@@ -1,0 +1,29 @@
+_repo: Dwala-A-romance_68496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calderon, George
+    birthdate: 1868
+    deathdate: 1915
+    gutenberg_agent_id: '6092'
+    url: http://www.gutenberg.org/2009/agents/6092
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68496'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uiug.30112041664803
+pgterms:marc905: 20201112085152calderon
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Smith, Elder & Co.,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dwala: A romance'
+url: http://www.gutenberg.org/ebooks/68496
